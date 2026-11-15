@@ -7,13 +7,15 @@ The script creates one test job and one test candidate and removes them again
 (soft delete), so the demo data stays clean.
 """
 
+import os
 import sys
 import time
 from datetime import date, timedelta
 
 import requests
 
-BASE_URL = "http://127.0.0.1:8000"
+# Override with e.g.  API_URL=http://127.0.0.1:8001
+BASE_URL = os.getenv("API_URL", "http://127.0.0.1:8000")
 failed = 0
 
 

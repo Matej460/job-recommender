@@ -4,6 +4,8 @@ Project for the subject **Implementation of Solution 2**.
 
 **GitHub repository:** https://github.com/Matej460/job-recommender
 
+**Technical documentation (PDF):** [docs/Technical_Documentation.pdf](docs/Technical_Documentation.pdf)
+
 A small web application that recommends jobs and internships to students and recent
 graduates. The ranking is **deterministic and rule-based**: no machine learning, every
 point of the score can be explained.
