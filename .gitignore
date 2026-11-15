@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Local settings (contains the database password)
+.env
+
+# Editors and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

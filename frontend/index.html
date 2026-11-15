@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <!-- Makes the page use the real width of a phone screen instead of a zoomed-out desktop page -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Job and internship recommendations</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="page">
+
+    <header class="page-header">
+      <div>
+        <h1>Job and internship recommendations</h1>
+        <p class="subtitle">Open positions, ranked by how well they fit the selected candidate.</p>
+      </div>
+      <label class="field">
+        Candidate
+        <select id="candidate-select"></select>
+      </label>
+    </header>
+
+    <!-- Short summary of the selected candidate (filled by app.js) -->
+    <section id="profile" class="profile" hidden></section>
+
+    <!-- Two views: recommendations for the candidate, or the full list of jobs -->
+    <nav class="tabs" aria-label="View">
+      <button type="button" class="tab active" data-view="recommendations">Recommended</button>
+      <button type="button" class="tab" data-view="jobs">All jobs</button>
+    </nav>
+
+    <!-- The three job filters required by the brief. They work in both views. -->
+    <form id="filters" class="filters">
+      <label class="field">
+        Category
+        <select id="filter-category">
+          <option value="">All categories</option>
+          <option>Software Development</option>
+          <option>Data Analytics</option>
+          <option>Marketing</option>
+          <option>Business</option>
+          <option>Design</option>
+          <option>Finance</option>
+          <option>Human Resources</option>
+          <option>Customer Support</option>
+          <option>Engineering</option>
+          <option>Project Management</option>
+          <option>Sales</option>
+          <option>Research</option>
+        </select>
+      </label>
+      <label class="field">
+        Employment type
+        <select id="filter-type">
+          <option value="">All types</option>
+          <option>Internship</option>
+          <option>Full-time</option>
+          <option>Part-time</option>
+        </select>
+      </label>
+      <label class="checkbox">
+        <input type="checkbox" id="filter-remote">
+        Remote only
+      </label>
+      <button type="reset" class="link-button">Clear filters</button>
+    </form>
+
+    <!-- One line that says what is shown, e.g. "20 recommendations for Ana Petrova" -->
+    <p id="status" class="status" aria-live="polite"></p>
+
+    <!-- Loading, error and empty states are shown here -->
+    <div id="message" class="message" hidden></div>
+
+    <!-- Job cards are inserted here -->
+    <main id="results" class="results"></main>
+
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

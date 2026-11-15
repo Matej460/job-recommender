@@ -1,0 +1,27 @@
+# PostgreSQL for local development.
+# Start:  docker compose up -d
+# Stop:   docker compose down          (keeps the data)
+# Reset:  docker compose down -v       (deletes the data volume)
+#
+# The values after ":-" are defaults. They can be overridden in the .env file.
+
+services:
+  db:
+    image: postgres:16
+    container_name: job_recommender_db
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-jobs_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-jobs_password}
+      POSTGRES_DB: ${POSTGRES_DB:-jobs_db}
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - job_recommender_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-jobs_user} -d ${POSTGRES_DB:-jobs_db}"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+volumes:
+  job_recommender_data:

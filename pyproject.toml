@@ -1,0 +1,25 @@
+[project]
+name = "job-internship-recommender"
+version = "1.0.0"
+description = "Deterministic job and internship recommendation system (FastAPI + PostgreSQL)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.30",
+    "sqlalchemy>=2.0",
+    "psycopg2-binary>=2.9",
+    "python-dotenv>=1.0",
+]
+
+# Tools that are only needed for testing, not for running the application.
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+    "httpx2>=1.0",
+    "requests>=2.32",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

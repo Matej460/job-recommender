@@ -1,0 +1,81 @@
+candidate_id,name,email,study_area,year_of_study,latitude,longitude,skills,interests,preferred_employment_type,preferred_work_mode,available_from,available_to,min_salary
+1,Ana Petrova,ana.pet@example.com,Computer Science,3,41.998,21.425,"Python,SQL,Git","Software Development,Data Analytics",Internship,Hybrid,09:00,17:00,20000
+2,Marko Ivanov,marko@example.com,Economics,4,41.9992,21.4262,"Excel,Communication,Social Media","Marketing,Business",Internship,On-site,09:00,16:00,15000
+3,Elena Stojanova,elena@example.com,Computer Science,2,41.9976,21.4249,"Python,Excel,SQL","Data Analytics,Software Development",Internship,Remote,10:00,18:00,18000
+4,Aleksandar Trajkovski,aleksandar.trajkovski4@example.com,Economics,4,41.9932,21.4236,"Social Media,Canva,Statistics","Business,Data Analytics",Full-time,Hybrid,08:00,16:00,39000
+5,Marko Georgiev,marko.georgiev5@example.com,Computer Science,4,42.0033,21.3887,"Git,Leadership,Statistics,JavaScript","Software Development,Project Management",Internship,On-site,09:00,15:00,12000
+6,Luka Ristov,luka.ristov6@example.com,Graphic Design,3,42.017,21.3466,"Canva,UI Design,UX Research,Excel",Design,Internship,On-site,12:00,20:00,14000
+7,Marija Jovanova,marija.jovanova7@example.com,Psychology,5,41.9953,21.4359,"Onboarding,Data Analysis,Literature Review,Recruitment,Excel","Research,Human Resources,Project Management",Internship,Hybrid,12:00,20:00,16000
+8,Stefan Kostov,stefan.kostov8@example.com,Mathematics,5,41.9785,21.4429,"Data Analysis,Excel,Statistics,Surveys,English","Research,Human Resources",Full-time,Remote,14:00,20:00,37000
+9,Kristijan Popovski,kristijan.popovski9@example.com,Finance,4,42.004,21.3988,"Excel,Budgeting,Financial Analysis,Accounting,Reporting",Finance,Internship,Hybrid,12:00,20:00,11000
+10,Jovana Stefanovska,jovana.stefanovska10@example.com,Mathematics,3,41.9742,21.4408,"Surveys,Excel,Data Analysis,SQL,Data Visualization,Communication","Data Analytics,Research",Internship,Hybrid,09:00,15:00,16000
+11,Ana Georgieva,ana.georgieva11@example.com,Mathematics,2,41.9728,21.4357,"SQL,Statistics,Data Analysis","Data Analytics,Engineering",Internship,Hybrid,14:00,20:00,14000
+12,Monika Todorova,monika.todorova12@example.com,Graphic Design,1,42.0123,21.4714,"Canva,Adobe Illustrator,Typography",Design,Internship,On-site,09:00,15:00,16000
+13,Daniel Ilievski,daniel.ilievski13@example.com,Computer Science,3,42.0038,21.4372,"Agile,Attention to Detail,ETL,REST APIs,Excel","Project Management,Software Development",Part-time,On-site,09:00,15:00,18000
+14,Martin Trajkovski,martin.trajkovski14@example.com,Graphic Design,2,42.0051,21.4314,"Adobe Illustrator,Creativity,UX Research,Prototyping,Adobe Photoshop","Design,Customer Support",Internship,On-site,09:00,15:00,14000
+15,Petar Mitrev,petar.mitrev15@example.com,Graphic Design,2,41.9802,21.4419,"Canva,Adobe Illustrator,Creativity,Prototyping,English",Design,Internship,Hybrid,12:00,20:00,12000
+16,Viktorija Naumova,viktorija.naumova16@example.com,Finance,1,42.0148,21.3462,"Attention to Detail,Excel,Reporting,Accounting",Finance,Internship,Remote,10:00,18:00,13000
+17,Bojan Jovanov,bojan.jovanov17@example.com,Marketing,5,41.98,21.4733,"Presentation Skills,Copywriting,Google Analytics,CRM,Excel","Sales,Engineering",Internship,Remote,08:00,13:00,18000
+18,Viktorija Nikolova,viktorija.nikolova18@example.com,Mathematics,3,42.0037,21.4236,"Reporting,Excel,Statistics,English","Data Analytics,Research,Customer Support",Full-time,Hybrid,14:00,20:00,36000
+19,Damjan Angelov,damjan.angelov19@example.com,Economics,4,41.9815,21.4677,"Market Research,Attention to Detail,Social Media,Negotiation","Finance,Marketing",Part-time,Hybrid,09:00,15:00,17000
+20,Damjan Ilievski,damjan.ilievski20@example.com,Marketing,4,41.9921,21.4392,"Social Media,SEO,Negotiation,Communication","Sales,Customer Support",Internship,Remote,12:00,20:00,16000
+21,David Stojanov,david.stojanov21@example.com,Business Administration,4,41.9649,21.4459,"English,Communication,Excel,Reporting,SQL","Project Management,Data Analytics",Internship,Remote,10:00,18:00,15000
+22,Luka Todorov,luka.todorov22@example.com,Business Administration,2,42.0146,21.4766,"Business Analysis,Planning,Jira,English,Excel","Business,Human Resources",Internship,Hybrid,09:00,17:00,15000
+23,Bojan Trajkovski,bojan.trajkovski23@example.com,Marketing,2,42.0202,21.4679,"SEO,Excel,Google Analytics","Sales,Marketing",Internship,Remote,08:00,13:00,11000
+24,Daniel Petrov,daniel.petrov24@example.com,Mechanical Engineering,2,42.0255,21.4809,"Problem Solving,AutoCAD,Technical Drawing",Engineering,Internship,On-site,08:00,16:00,15000
+25,Simona Naumova,simona.naumova25@example.com,Marketing,5,41.9854,21.4684,"SEO,Social Media,Excel,Presentation Skills","Sales,Engineering",Full-time,On-site,12:00,20:00,37000
+26,Tamara Kostova,tamara.kostova26@example.com,Computer Science,2,41.9769,21.4331,"Statistics,React,Attention to Detail",Data Analytics,Internship,Hybrid,10:00,18:00,11000
+27,Monika Dimitrova,monika.dimitrova27@example.com,Computer Science,3,41.7214,21.7707,"Java,Excel,Testing","Software Development,Data Analytics",Part-time,On-site,09:00,15:00,14000
+28,Luka Naumov,luka.naumov28@example.com,Electrical Engineering,1,42.0009,21.4056,"Circuit Design,PLC Programming,MATLAB,Problem Solving,English",Engineering,Internship,On-site,10:00,18:00,17000
+29,Damjan Ivanov,damjan.ivanov29@example.com,Marketing,1,41.7372,22.1951,"Copywriting,Content Writing,Canva,Presentation Skills,Negotiation,Excel",Sales,Internship,On-site,10:00,18:00,16000
+30,Simona Kostova,simona.kostova30@example.com,Electrical Engineering,5,41.9866,21.4325,"MATLAB,AutoCAD,Problem Solving,PLC Programming,Organization",Engineering,Full-time,Hybrid,10:00,18:00,34000
+31,Marko Petrov,marko.petrov31@example.com,Mathematics,1,41.9826,21.4412,"Reporting,Power BI,Data Analysis,Surveys,English","Data Analytics,Research",Part-time,Hybrid,12:00,20:00,21000
+32,Marija Naumova,marija.naumova32@example.com,Graphic Design,3,41.9888,21.4371,"UI Design,Figma,Adobe Illustrator,Adobe Photoshop,English",Design,Internship,On-site,09:00,17:00,12000
+33,Jovana Nikolova,jovana.nikolova33@example.com,Computer Science,3,42.0032,21.4247,"Statistics,Testing,Spring Boot,Problem Solving","Software Development,Project Management",Part-time,Hybrid,14:00,20:00,19000
+34,Ana Popovska,ana.popovska34@example.com,Marketing,2,42.0001,21.3604,"Google Analytics,Social Media,Copywriting,Negotiation","Marketing,Customer Support",Internship,Hybrid,09:00,17:00,11000
+35,David Stojanov,david.stojanov35@example.com,Psychology,4,41.9726,21.4326,"Communication,Recruitment,Data Analysis","Research,Data Analytics",Internship,Hybrid,12:00,20:00,17000
+36,Tamara Dimitrova,tamara.dimitrova36@example.com,Computer Science,1,42.0041,21.3998,"UI Design,Docker,SQL,Agile","Data Analytics,Project Management",Internship,Remote,14:00,20:00,11000
+37,Kristijan Petrov,kristijan.petrov37@example.com,Marketing,3,42.0175,21.4669,"CRM,Negotiation,Canva,Excel,Problem Solving","Sales,Project Management",Internship,On-site,14:00,20:00,18000
+38,David Ristov,david.ristov38@example.com,Finance,3,42.0225,21.4784,"Excel,Financial Analysis,Reporting,Attention to Detail,Budgeting,English","Finance,Project Management",Part-time,Remote,09:00,17:00,18000
+39,Jovana Velkova,jovana.velkova39@example.com,Business Administration,2,42.004,21.3443,"Presentation Skills,Interviewing,Jira","Human Resources,Project Management",Internship,Hybrid,14:00,20:00,12000
+40,Goran Trajkovski,goran.trajkovski40@example.com,Finance,4,42.0155,21.4423,"Excel,Accounting,Reporting,Attention to Detail,Communication",Finance,Full-time,Remote,09:00,17:00,47000
+41,Filip Bogdanov,filip.bogdanov41@example.com,Graphic Design,5,42.0171,21.4809,"Adobe Illustrator,Communication,Typography,English","Design,Project Management",Full-time,On-site,12:00,20:00,44000
+42,Teodora Stojanova,teodora.stojanova42@example.com,Computer Science,3,42.0008,21.4411,"Communication,Jira,Scrum,Excel","Software Development,Project Management,Research",Part-time,Remote,10:00,18:00,19000
+43,Aleksandar Ilievski,aleksandar.ilievski43@example.com,Finance,1,41.9762,21.4749,"Reporting,Attention to Detail,Financial Analysis,English",Finance,Internship,Remote,12:00,20:00,12000
+44,Bojan Georgiev,bojan.georgiev44@example.com,Mechanical Engineering,5,41.9995,21.3891,"SolidWorks,MATLAB,Technical Drawing,Problem Solving,AutoCAD,English",Engineering,Full-time,Hybrid,09:00,15:00,43000
+45,Nikola Velkov,nikola.velkov45@example.com,Business Administration,3,41.994,21.4315,"Reporting,Business Analysis,SQL,Organization",Business,Part-time,Hybrid,14:00,20:00,17000
+46,Martin Stojanov,martin.stojanov46@example.com,Computer Science,1,42.0176,21.4733,"Testing,Java,UI Design,SQL,Excel","Software Development,Data Analytics,Project Management",Internship,Remote,14:00,20:00,13000
+47,Simona Spasova,simona.spasova47@example.com,Marketing,4,41.117,20.7925,"Presentation Skills,Content Writing,Negotiation,Communication",Marketing,Internship,On-site,14:00,20:00,18000
+48,Bojana Todorova,bojana.todorova48@example.com,Graphic Design,1,41.967,21.435,"Communication,Adobe Photoshop,UI Design,Figma,Prototyping,Organization",Design,Part-time,Hybrid,10:00,18:00,18000
+49,Stefan Naumov,stefan.naumov49@example.com,Psychology,2,41.9925,21.4627,"Recruitment,Onboarding,Statistics,Data Analysis,Organization,Problem Solving","Research,Human Resources,Marketing",Full-time,On-site,10:00,18:00,42000
+50,Damjan Ilievski,damjan.ilievski50@example.com,Economics,4,42.0143,21.4349,"Customer Service,CRM,Canva,English",Business,Full-time,On-site,08:00,13:00,35000
+51,Kristijan Todorov,kristijan.todorov51@example.com,Finance,1,41.9986,21.3963,"Excel,Attention to Detail,Financial Analysis,Budgeting",Finance,Internship,Remote,08:00,16:00,17000
+52,Bojana Jovanova,bojana.jovanova52@example.com,Electrical Engineering,3,42.0074,21.3929,"Python,Circuit Design,Problem Solving,PLC Programming,Excel",Engineering,Internship,Hybrid,14:00,20:00,17000
+53,Kristijan Dimitrov,kristijan.dimitrov53@example.com,Psychology,5,42.0201,21.4764,"Excel,Literature Review,Organization",Research,Full-time,On-site,09:00,15:00,34000
+54,Luka Mitrev,luka.mitrev54@example.com,Computer Science,3,41.9769,21.4574,"CSS,Jira,Power BI,Agile",Project Management,Internship,Remote,12:00,20:00,15000
+55,David Georgiev,david.georgiev55@example.com,Graphic Design,1,42.0017,21.4019,"Communication,Prototyping,UX Research,Creativity,UI Design","Design,Sales",Full-time,Hybrid,10:00,18:00,47000
+56,Aleksandar Naumov,aleksandar.naumov56@example.com,Marketing,2,42.0247,21.4802,"Excel,CRM,Negotiation","Marketing,Design",Part-time,Hybrid,09:00,17:00,19000
+57,Monika Ristova,monika.ristova57@example.com,Mechanical Engineering,5,41.9783,21.4426,"Technical Drawing,Problem Solving,AutoCAD,MATLAB",Engineering,Internship,Hybrid,14:00,20:00,17000
+58,Sara Trajkovska,sara.trajkovska58@example.com,Economics,4,41.9968,21.4029,"English,Statistics,Excel,Market Research,CRM,Communication","Finance,Sales",Internship,Remote,14:00,20:00,16000
+59,Daniel Trajkovski,daniel.trajkovski59@example.com,Electrical Engineering,5,42.0103,21.4797,"PLC Programming,Python,Circuit Design,Problem Solving,Organization",Engineering,Internship,On-site,09:00,17:00,15000
+60,Kristina Nikolova,kristina.nikolova60@example.com,Computer Science,4,41.1212,20.7962,"SQL,CSS,UI Design","Data Analytics,Software Development",Internship,Hybrid,14:00,20:00,12000
+61,Ana Trajkovska,ana.trajkovska61@example.com,Graphic Design,1,42.0103,21.4336,"UI Design,Adobe Photoshop,Figma",Design,Full-time,On-site,10:00,18:00,30000
+62,Angela Trajkovska,angela.trajkovska62@example.com,Graphic Design,1,41.9687,21.4373,"Adobe Illustrator,UI Design,Communication,Canva",Design,Internship,Hybrid,08:00,13:00,16000
+63,Mila Jovanova,mila.jovanova63@example.com,Computer Science,1,42.0092,21.3887,"Statistics,Excel,Spring Boot,Problem Solving","Software Development,Sales",Part-time,Hybrid,08:00,16:00,19000
+64,Luka Angelov,luka.angelov64@example.com,Psychology,1,41.9994,21.4251,"Onboarding,Data Analysis,Communication,Statistics","Research,Human Resources",Part-time,Hybrid,09:00,17:00,21000
+65,David Stefanovski,david.stefanovski65@example.com,Mechanical Engineering,4,42.0002,21.3584,"Technical Drawing,Problem Solving,SolidWorks,Communication",Engineering,Full-time,Remote,08:00,16:00,41000
+66,Tamara Dimitrova,tamara.dimitrova66@example.com,Graphic Design,4,42.0155,21.4447,"Canva,UX Research,Adobe Illustrator,Creativity,Typography,Organization","Design,Customer Support",Full-time,Remote,08:00,16:00,31000
+67,Filip Naumov,filip.naumov67@example.com,Psychology,2,41.9662,21.4418,"Academic Writing,Recruitment,Excel,Literature Review,Data Analysis,Problem Solving","Human Resources,Research",Internship,On-site,09:00,17:00,14000
+68,Sara Angelova,sara.angelova68@example.com,Finance,1,41.9943,21.4328,"Reporting,Financial Analysis,Excel,Attention to Detail",Finance,Part-time,On-site,10:00,18:00,19000
+69,Bojan Stojanov,bojan.stojanov69@example.com,Graphic Design,5,42.0033,21.4443,"Typography,Prototyping,Canva,UX Research,Adobe Illustrator",Design,Full-time,On-site,08:00,16:00,41000
+70,Kristijan Popovski,kristijan.popovski70@example.com,Computer Science,1,41.9685,21.4388,"Testing,Communication,REST APIs,SQL,Java,Problem Solving","Software Development,Data Analytics,Project Management",Part-time,Remote,14:00,20:00,16000
+71,Goran Ivanov,goran.ivanov71@example.com,Marketing,5,41.0335,21.3227,"Negotiation,Excel,CRM",Marketing,Full-time,Remote,09:00,17:00,39000
+72,Kristina Nikolova,kristina.nikolova72@example.com,Graphic Design,2,42.0183,21.4421,"Typography,Adobe Illustrator,Creativity,Communication,English",Design,Internship,On-site,09:00,15:00,16000
+73,Filip Velkov,filip.velkov73@example.com,Computer Science,5,41.9826,21.4427,"CSS,Jira,Testing,Docker,Communication","Project Management,Software Development",Full-time,Remote,12:00,20:00,42000
+74,Petar Todorov,petar.todorov74@example.com,Computer Science,1,42.0047,21.353,"Docker,SQL,Jira,Spring Boot","Data Analytics,Sales",Full-time,Hybrid,08:00,16:00,35000
+75,Viktor Velkov,viktor.velkov75@example.com,Graphic Design,5,42.0092,21.4046,"Prototyping,Typography,Communication,Adobe Photoshop",Design,Internship,Remote,14:00,20:00,16000
+76,Petar Popovski,petar.popovski76@example.com,Marketing,1,42.009,21.4791,"Content Writing,Communication,Negotiation",Marketing,Internship,On-site,09:00,17:00,14000
+77,Nikola Stefanovski,nikola.stefanovski77@example.com,Business Administration,2,42.0043,21.389,"Interviewing,Excel,English,Jira","Business,Human Resources,Engineering",Internship,On-site,08:00,13:00,16000
+78,Aleksandar Jovanov,aleksandar.jovanov78@example.com,Economics,2,42.0195,21.4686,"CRM,Attention to Detail,Accounting",Marketing,Part-time,Remote,08:00,16:00,18000
+79,Simona Nikolova,simona.nikolova79@example.com,Marketing,5,41.1239,20.7917,"CRM,Canva,Excel,Organization",Sales,Internship,On-site,14:00,20:00,11000
+80,Martin Jovanov,martin.jovanov80@example.com,Mechanical Engineering,1,41.9989,21.3603,"Problem Solving,MATLAB,Technical Drawing",Engineering,Internship,Remote,08:00,13:00,11000
